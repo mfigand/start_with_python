@@ -1,0 +1,3 @@
+# pip3 install -r "c9-python-getting-started/16 - Calling APIs/requirements.txt"
+
+requests
